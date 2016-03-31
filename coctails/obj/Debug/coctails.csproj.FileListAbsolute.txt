@@ -1,0 +1,13 @@
+c:\users\анастасия\documents\visual studio 2013\Projects\coctails\coctails\bin\Debug\coctails.exe.config
+c:\users\анастасия\documents\visual studio 2013\Projects\coctails\coctails\bin\Debug\coctails.exe
+c:\users\анастасия\documents\visual studio 2013\Projects\coctails\coctails\bin\Debug\coctails.pdb
+c:\users\анастасия\documents\visual studio 2013\Projects\coctails\coctails\obj\Debug\coctails.csprojResolveAssemblyReference.cache
+c:\users\анастасия\documents\visual studio 2013\Projects\coctails\coctails\obj\Debug\coctails.Form1.resources
+c:\users\анастасия\documents\visual studio 2013\Projects\coctails\coctails\obj\Debug\coctails.Properties.Resources.resources
+c:\users\анастасия\documents\visual studio 2013\Projects\coctails\coctails\obj\Debug\coctails.csproj.GenerateResource.Cache
+c:\users\анастасия\documents\visual studio 2013\Projects\coctails\coctails\obj\Debug\coctails.exe
+c:\users\анастасия\documents\visual studio 2013\Projects\coctails\coctails\obj\Debug\coctails.pdb
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.barman.resources
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.chbarman.resources
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.user.resources
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.warehouseman.resources

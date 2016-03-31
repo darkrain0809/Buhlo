@@ -1,0 +1,28 @@
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\bin\Debug\coctails.exe.config
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\bin\Debug\coctails.exe
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\bin\Debug\coctails.pdb
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\bin\Debug\mysql.data.dll
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\cocktails.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.chbarman.resources
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.Form1.resources
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.Properties.Resources.resources
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.user.resources
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.warehouseman.resources
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\cocktails.csproj.GenerateResource.Cache
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.exe
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.pdb
+C:\Users\Анастасия\Documents\Visual Studio 2013\Projects\coctails\coctails\obj\Debug\coctails.barman.resources
+C:\Users\НР\Desktop\coctails\coctails\coctails\bin\Debug\coctails.exe.config
+C:\Users\НР\Desktop\coctails\coctails\coctails\obj\Debug\coctails.exe
+C:\Users\НР\Desktop\coctails\coctails\coctails\obj\Debug\coctails.pdb
+C:\Users\НР\Desktop\coctails\coctails\coctails\bin\Debug\coctails.exe
+C:\Users\НР\Desktop\coctails\coctails\coctails\bin\Debug\coctails.pdb
+C:\Users\НР\Desktop\coctails\coctails\coctails\bin\Debug\mysql.data.dll
+C:\Users\НР\Desktop\coctails\coctails\coctails\obj\Debug\cocktails.csprojResolveAssemblyReference.cache
+C:\Users\НР\Desktop\coctails\coctails\coctails\obj\Debug\coctails.barman.resources
+C:\Users\НР\Desktop\coctails\coctails\coctails\obj\Debug\coctails.chbarman.resources
+C:\Users\НР\Desktop\coctails\coctails\coctails\obj\Debug\coctails.Form1.resources
+C:\Users\НР\Desktop\coctails\coctails\coctails\obj\Debug\coctails.Properties.Resources.resources
+C:\Users\НР\Desktop\coctails\coctails\coctails\obj\Debug\coctails.user.resources
+C:\Users\НР\Desktop\coctails\coctails\coctails\obj\Debug\coctails.warehouseman.resources
+C:\Users\НР\Desktop\coctails\coctails\coctails\obj\Debug\cocktails.csproj.GenerateResource.Cache
